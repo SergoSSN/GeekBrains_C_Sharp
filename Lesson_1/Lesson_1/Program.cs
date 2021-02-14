@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Lesson_1
 {
@@ -8,6 +8,7 @@ namespace Lesson_1
         {
             Console.WriteLine("Привет, как тебя зовут?");
             string name = Console.ReadLine();
+            
             Console.WriteLine($"Привет {name} [{DateTime.Now}] ");            
         }
     }
