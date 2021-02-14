@@ -1,0 +1,13 @@
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.exe
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.deps.json
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.json
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.runtimeconfig.dev.json
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.dll
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\bin\Debug\netcoreapp3.1\Lesson_1.pdb
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csprojAssemblyReference.cache
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfoInputs.cache
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.AssemblyInfo.cs
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.csproj.CoreCompileInputs.cache
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.dll
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.pdb
+E:\GeekBrains_C_Sharp\Lesson_1\Lesson_1\obj\Debug\netcoreapp3.1\Lesson_1.genruntimeconfig.cache
